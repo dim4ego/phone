@@ -1,0 +1,25 @@
+{"level":"info","message":"GET /api/users","timestamp":"2026-01-27T06:30:05.164Z"}
+{"level":"info","message":"PUT /api/users","timestamp":"2026-01-27T06:34:07.359Z"}
+{"level":"info","message":"GET /api/users","timestamp":"2026-01-27T06:34:16.478Z"}
+{"level":"info","message":"PUT /api/users/:id1","timestamp":"2026-01-27T06:39:10.607Z"}
+{"level":"info","message":"PUT /api/users/:id1","timestamp":"2026-01-27T06:45:10.603Z"}
+{"level":"info","message":"GET /api/users","timestamp":"2026-01-27T06:45:29.549Z"}
+{"level":"info","message":"PUT /api/users","timestamp":"2026-01-27T06:49:39.516Z"}
+{"level":"info","message":"PUT /api/users/1","timestamp":"2026-01-27T06:51:36.909Z"}
+{"level":"error","message":"Cannot destructure property 'name' of 'req.body' as it is undefined.","timestamp":"2026-01-27T06:54:21.558Z"}
+{"level":"error","message":"Cannot destructure property 'name' of 'req.body' as it is undefined.","timestamp":"2026-01-27T06:55:40.666Z"}
+{"level":"error","message":"Expected property name or '}' in JSON at position 1 (line 1 column 2)","timestamp":"2026-01-27T07:00:16.097Z"}
+{"level":"error","message":"Expected property name or '}' in JSON at position 1 (line 1 column 2)","timestamp":"2026-01-27T07:00:21.105Z"}
+{"level":"error","message":"Expected property name or '}' in JSON at position 1 (line 1 column 2)","timestamp":"2026-01-27T07:00:25.575Z"}
+{"level":"info","message":"PUT /api/users","timestamp":"2026-01-27T07:04:08.596Z"}
+{"level":"info","message":"POST /api/users/1","timestamp":"2026-01-27T08:30:08.574Z"}
+{"level":"error","message":"Expected double-quoted property name in JSON at position 48 (line 5 column 1)","timestamp":"2026-01-27T09:29:43.708Z"}
+{"level":"error","message":"Expected double-quoted property name in JSON at position 48 (line 5 column 1)","timestamp":"2026-01-27T09:29:58.479Z"}
+{"level":"info","message":"POST /api/department","timestamp":"2026-01-27T09:30:32.318Z"}
+{"level":"info","message":"POST /api/department","timestamp":"2026-01-27T09:31:57.210Z"}
+{"level":"info","message":"GET /api/department","timestamp":"2026-01-27T11:41:55.697Z"}
+{"level":"info","message":"GET /api/department","timestamp":"2026-01-27T11:42:56.822Z"}
+{"level":"info","message":"GET /api/department","timestamp":"2026-01-27T11:43:11.573Z"}
+{"level":"info","message":"POST /api/users/1","timestamp":"2026-01-27T11:47:40.631Z"}
+{"level":"info","message":"POST /api/users/2","timestamp":"2026-01-27T11:48:43.569Z"}
+{"level":"info","message":"POST /api/users/10","timestamp":"2026-01-27T11:48:50.723Z"}

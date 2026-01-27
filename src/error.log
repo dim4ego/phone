@@ -1,0 +1,7 @@
+{"level":"error","message":"Cannot destructure property 'name' of 'req.body' as it is undefined.","timestamp":"2026-01-27T06:54:21.558Z"}
+{"level":"error","message":"Cannot destructure property 'name' of 'req.body' as it is undefined.","timestamp":"2026-01-27T06:55:40.666Z"}
+{"level":"error","message":"Expected property name or '}' in JSON at position 1 (line 1 column 2)","timestamp":"2026-01-27T07:00:16.097Z"}
+{"level":"error","message":"Expected property name or '}' in JSON at position 1 (line 1 column 2)","timestamp":"2026-01-27T07:00:21.105Z"}
+{"level":"error","message":"Expected property name or '}' in JSON at position 1 (line 1 column 2)","timestamp":"2026-01-27T07:00:25.575Z"}
+{"level":"error","message":"Expected double-quoted property name in JSON at position 48 (line 5 column 1)","timestamp":"2026-01-27T09:29:43.708Z"}
+{"level":"error","message":"Expected double-quoted property name in JSON at position 48 (line 5 column 1)","timestamp":"2026-01-27T09:29:58.479Z"}
