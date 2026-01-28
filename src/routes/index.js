@@ -11,4 +11,10 @@ router.get('/department', userController.getDepartment);
 router.post('/department', userController.createDepartment);
 router.put('/department/:id', userController.updateDepartment);
 router.delete('/department/:id', userController.deleteDepartment);
+
+router.get('/organization', userController.getOrganizations);
+router.post('/organization', userController.createOrganization);
+router.put('/organization/:id', userController.updateOrganization);
+router.delete('/organization/:id', userController.deleteOrganization);
+
 module.exports = router;
